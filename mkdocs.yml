@@ -1,3 +1,4 @@
 site_name: 新西兰结婚证样本深度比对：在内地办事如何合规办理新西兰结婚证海牙认证
 theme:
   name: material
+  custom_dir: overrides
